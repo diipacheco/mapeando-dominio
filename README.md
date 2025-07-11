@@ -4,10 +4,15 @@ Atividade sobre DDD. Identificar entidades de domínio e casos de uso numa conve
 ## Quais as entidades de domínio?
 
 . Produto
+
 . Estoque
+
 . Vendas
+
 . Ordem de compra
+
 . Fornecedor (usuário)
+
 . Admin (usuário)
 
 ## Quais as ações (casos de uso) que essa aplicação deve ter?
